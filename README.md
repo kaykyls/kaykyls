@@ -1,4 +1,4 @@
-# Olá, me chamo **Kayky** e estou estudando desenvolvimento **front-end**.
+# Olá, me chamo **Kayky** e estou aprendendo desenvolvimento **front-end**.
 
 <div align="center">
   <br>
