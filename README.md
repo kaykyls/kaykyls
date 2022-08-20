@@ -11,7 +11,7 @@
 </div>
 <div align="center">
   <br>
-  <img align="center" alt="My-photo" height="150" src="https://cdn.discordapp.com/attachments/766798638139179031/1010621934167412936/videoplayback.gif">
+  <img align="center" alt="My-photo" height="150" src="https://cdn.discordapp.com/attachments/766798638139179031/1010607286990946335/bolinha_de_gorfe.jpeg">
   <br>
   <br>
   <a href="https://instagram.com/dev.kayky" target="_blank"><img height="50px" src="https://cdn.discordapp.com/attachments/766798638139179031/1010619470127054918/instagram.png" target="_blank"></a>
