@@ -5,7 +5,7 @@
   <a href="https://github.com/kaykyls">
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=kaykyls&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <br>
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyls&layout=compact&langs_count=7&theme=material-palenight"/> -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyls&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
 <div align="">
