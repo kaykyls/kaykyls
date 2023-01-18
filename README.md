@@ -47,9 +47,10 @@
 ## Skills:
 
 <div style="display: inline-block" align="">
+  <img align="center" alt="React" src="https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=#61dafb&labelColor=0D1117">
+  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFFF00&labelColor=0D1117">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF8C00&labelColor=0D1117">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1E90FF&labelColor=0D1117">
-  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFFF00&labelColor=0D1117">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=4169E1&labelColor=0D1117">
 </div>
 
