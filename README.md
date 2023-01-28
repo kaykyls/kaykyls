@@ -29,13 +29,6 @@
   <a href="https://www.linkedin.com/in/devkayky" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-  <br>
-  <img align="center" alt="My-photo" height="150" src="https://cdn.discordapp.com/attachments/766798638139179031/1010607286990946335/bolinha_de_gorfe.jpeg">
-  <br>
-  <br>
-</div>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kaykyls&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
