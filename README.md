@@ -45,6 +45,7 @@
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF8C00&labelColor=0D1117">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1E90FF&labelColor=0D1117">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=4169E1&labelColor=0D1117">
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=ff6421&labelColor=0D1117">
 </div>
 
 ## Tools:
