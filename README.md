@@ -16,13 +16,18 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyls&layout=compact&hide_border=true&title_color=00BFFF&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=kaykyls&theme=gotham&hide_border=true&area=true)
-
 <div align="center">
   
   ![Snake animation](https://github.com/kaykyls/kaykyls/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=kaykyls&theme=gotham&hide_border=true&area=true) -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaykyls&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+</div>
+   
+
 
 <div align ="center">
   <a href="https://instagram.com/dev.kayky" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
