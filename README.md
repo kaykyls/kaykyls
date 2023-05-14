@@ -42,6 +42,8 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1E90FF&labelColor=0D1117">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=4169E1&labelColor=0D1117">
   <img align="center" alt="Java" src="https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=java&logoColor=ff6421&labelColor=0D1117">
+  <img align="center" alt="Typescript" src="https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1E90FF&labelColor=0D1117">
+  <img align="center" alt="Redux" src="https://img.shields.io/badge/redux-0D1117?style=for-the-badge&logo=redux&logoColor=4C00B0&labelColor=0D1117">
 </div>
 
 ## Tools:
