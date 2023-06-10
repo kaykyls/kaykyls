@@ -22,7 +22,7 @@
  
 </div>
 
-<div >
+<div style="display: inline-block">
  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyls&theme=tokyonight" />
  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=kaykyls&show_icons=true&theme=tokyonight" />
 </div>
